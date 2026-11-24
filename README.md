@@ -58,8 +58,7 @@ Alguns projetos que estou desenvolvendo e estudando:
 ## 📫 Contato
 
 - GitHub: https://github.com/mvirginio307-cmyk
-- LinkedIn: [Adicione seu perfil]
-
+- LinkedIn: (https://www.linkedin.com/in/matheus-virginio-dos-santos-0017343b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 
 ⭐ Sempre buscando aprender, evoluir e desenvolver novos projetos!
